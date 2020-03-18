@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "ahrazrvmgvzghw",
+    "password": "8dec59aeb60750b890e1c1806e51986e348402281c4dcacf20d2faa7b7ebe792",
+    "database": "d8kk3dgi90afuh",
+    "host": "ec2-3-91-112-166.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": true
+    }
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "WebPracTutorial",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+    "production": {
+      "username": "ahrazrvmgvzghw",
+    "password": "8dec59aeb60750b890e1c1806e51986e348402281c4dcacf20d2faa7b7ebe792",
+    "database": "d8kk3dgi90afuh",
+    "host": "ec2-3-91-112-166.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": true
+    }
+  }
+}
